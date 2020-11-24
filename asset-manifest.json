@@ -1,0 +1,20 @@
+{
+  "main.css": "/slot_machine/static/css/main.9f9f5262.chunk.css",
+  "main.js": "/slot_machine/static/js/main.451a276c.chunk.js",
+  "main.js.map": "/slot_machine/static/js/main.451a276c.chunk.js.map",
+  "runtime~main.js": "/slot_machine/static/js/runtime~main.3ad10eea.js",
+  "runtime~main.js.map": "/slot_machine/static/js/runtime~main.3ad10eea.js.map",
+  "static/js/2.5f18798a.chunk.js": "/slot_machine/static/js/2.5f18798a.chunk.js",
+  "static/js/2.5f18798a.chunk.js.map": "/slot_machine/static/js/2.5f18798a.chunk.js.map",
+  "index.html": "/slot_machine/index.html",
+  "precache-manifest.069c3928e20816534b6ffe531b524e0e.js": "/slot_machine/precache-manifest.069c3928e20816534b6ffe531b524e0e.js",
+  "service-worker.js": "/slot_machine/service-worker.js",
+  "static/css/main.9f9f5262.chunk.css.map": "/slot_machine/static/css/main.9f9f5262.chunk.css.map",
+  "static/media/banana.png": "/slot_machine/static/media/banana.abf2234f.png",
+  "static/media/coin.wav": "/slot_machine/static/media/coin.e0f2b0be.wav",
+  "static/media/fail.wav": "/slot_machine/static/media/fail.05c73073.wav",
+  "static/media/monkey.png": "/slot_machine/static/media/monkey.0208eeab.png",
+  "static/media/orange.png": "/slot_machine/static/media/orange.7b3e3f1c.png",
+  "static/media/strawberry.png": "/slot_machine/static/media/strawberry.d77cb177.png",
+  "static/media/win.wav": "/slot_machine/static/media/win.5419a33c.wav"
+}
