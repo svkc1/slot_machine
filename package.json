@@ -2,7 +2,7 @@
   "name": "slot-machine",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://erwinschleier.github.io/slot-machine",
+  "homepage": "http://ErwinSchleier.github.io/slot-machine",
   "dependencies": {
     "lodash": "4.17.11",
     "prop-types": "15.7.2",
